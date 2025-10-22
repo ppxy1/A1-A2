@@ -1,4 +1,3 @@
-# Finetune_BiomedCLIP_linear.py
 import os, argparse, json
 from collections import Counter
 
