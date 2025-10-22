@@ -148,9 +148,9 @@ if __name__ == "__main__":
     main()
 
 
-# python /raid/baiyang/xiaoyu/assignment/Finetune_BiomedCLIP.py \
-#   --train_dir /raid/baiyang/xiaoyu/assignment/ML_test/question2/Training \
-#   --test_dir  /raid/baiyang/xiaoyu/assignment/ML_test/question2/Testing \
+# python assignment/Finetune_BiomedCLIP.py \
+#   --train_dir assignment/ML_test/question2/Training \
+#   --test_dir  assignment/ML_test/question2/Testing \
 #   --epochs 10 --bs 8 --lr 3e-4 \
 #   --sampler 1 --use_class_weight 1 \
 #   --save_path biomedclip_linear.pt
