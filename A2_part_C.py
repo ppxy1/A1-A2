@@ -154,4 +154,4 @@ if __name__ == "__main__":
 # python A2_c.py \
 #   --train_dir assignment/ML_test/question2/Training \
 #   --test_dir  assignment/ML_test/question2/Testing \
-#   --img_size 150 --epochs 10 --bs 16 --sampler 1 --use_class_weight 1
+#   --img_size 150 --epochs 10 --bs 4 --sampler 1 --use_class_weight 1
