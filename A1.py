@@ -1,5 +1,3 @@
-#   python /raid/baiyang/xiaoyu/assignment/1.py --csv /raid/baiyang/xiaoyu/assignment/ML_test/question1.csv --out_dir artifacts --cv 3 --beta 2.0 --recall_floor 0.60 --pos_weight_mult 1.2
-
 import argparse, warnings, json, time
 warnings.filterwarnings("ignore")
 
